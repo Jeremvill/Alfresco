@@ -14,12 +14,19 @@ Alfresco project with documentation by Jerem
 - Folow this instructions :
  
 1.Download the distribution zip file by accessing the Alfresco Community Edition download page.
+
 2.Generate certificates for mutual TLS.
+
 3.Download Tomcat and review the installation steps required.
+
 4.Set up Tomcat.
+
 5.Install and configure Community Edition.
+
 6.Install any Alfresco Module Packages (AMPs) such as Alfresco Share, Google Docs Integration, and Alfresco Office Services.
+
 7.Set up ActiveMQ.
+
 8.Install third-party software used by Community Edition. This includes LibreOffice, ImageMagick, and Alfresco PDF Renderer.
 
 ### Restart for init 
