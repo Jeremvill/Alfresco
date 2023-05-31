@@ -11,7 +11,8 @@ Alfresco project with documentation by Jerem
 - And LibreOffice (https://fr.libreoffice.org/download/telecharger-libreoffice/) and ImageMagick (https://imagemagick.org/script/download.php)
 
 ### Start / run 
-- Folow this instructions : 
+- Folow this instructions :
+ 
 1.Download the distribution zip file by accessing the Alfresco Community Edition download page.
 2.Generate certificates for mutual TLS.
 3.Download Tomcat and review the installation steps required.
