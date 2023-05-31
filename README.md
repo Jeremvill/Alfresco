@@ -31,8 +31,11 @@ Alfresco project with documentation by Jerem
 
 ### Restart for init 
 - Review and test your setup to check that all the installation steps are complete:
+
 1.Start and configure your database.
+
 2.Start and configure ActiveMQ.
+
 3.Start the repository.
 
 ### Prepare Db
